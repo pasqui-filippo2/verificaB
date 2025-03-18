@@ -1,0 +1,14 @@
+C:\Users\pasqui.filippo\Desktop\verifica\verifica\obj\Debug\net7.0\verifica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasqui.filippo\Desktop\verifica\verifica\obj\Debug\net7.0\verifica.AssemblyInfoInputs.cache
+C:\Users\pasqui.filippo\Desktop\verifica\verifica\obj\Debug\net7.0\verifica.AssemblyInfo.cs
+C:\Users\pasqui.filippo\Desktop\verifica\verifica\obj\Debug\net7.0\verifica.csproj.CoreCompileInputs.cache
+C:\Users\pasqui.filippo\Desktop\verifica\verifica\bin\Debug\net7.0\verifica.exe
+C:\Users\pasqui.filippo\Desktop\verifica\verifica\bin\Debug\net7.0\verifica.deps.json
+C:\Users\pasqui.filippo\Desktop\verifica\verifica\bin\Debug\net7.0\verifica.runtimeconfig.json
+C:\Users\pasqui.filippo\Desktop\verifica\verifica\bin\Debug\net7.0\verifica.dll
+C:\Users\pasqui.filippo\Desktop\verifica\verifica\bin\Debug\net7.0\verifica.pdb
+C:\Users\pasqui.filippo\Desktop\verifica\verifica\obj\Debug\net7.0\verifica.dll
+C:\Users\pasqui.filippo\Desktop\verifica\verifica\obj\Debug\net7.0\refint\verifica.dll
+C:\Users\pasqui.filippo\Desktop\verifica\verifica\obj\Debug\net7.0\verifica.pdb
+C:\Users\pasqui.filippo\Desktop\verifica\verifica\obj\Debug\net7.0\verifica.genruntimeconfig.cache
+C:\Users\pasqui.filippo\Desktop\verifica\verifica\obj\Debug\net7.0\ref\verifica.dll
